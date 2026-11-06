@@ -1,0 +1,24 @@
+{
+  "number": 88,
+  "product_id": "JLZ-EDU-SK-070",
+  "chinese_name": "组织与岗位职责映射",
+  "english_name": "Role Responsibility Mapper",
+  "repository_name": "edu-role-responsibility-mapper",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-role-responsibility-mapper-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "现有部门、岗位、人员、关键任务、协作关系和流程节点",
+  "main_output": "组织架构图文本、职责矩阵、重叠/空白区、RACI建议和待确认项",
+  "package_entries": [
+    "edu-role-responsibility-mapper/SKILL.md",
+    "edu-role-responsibility-mapper/references/DOMAIN_GUIDE.md",
+    "edu-role-responsibility-mapper/references/EXAMPLES.md",
+    "edu-role-responsibility-mapper/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "现有部门": "已提供并确认：现有部门"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
